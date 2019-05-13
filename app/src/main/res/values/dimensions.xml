@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="noLength">0dp</dimen>
+    <dimen name="smallMargin">8dp</dimen>
+    <dimen name="midMargin">16dp</dimen>
+    <dimen name="smallText">12sp</dimen>
+    <dimen name="midText">18sp</dimen>
+    <dimen name="largeText">24sp</dimen>
+    <dimen name="buttonSize">48dp</dimen>
+    <dimen name="largeMargin">200dp</dimen>
+    <dimen name="boarderHeight">1dp</dimen>
+</resources>
